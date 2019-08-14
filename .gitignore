@@ -4,3 +4,5 @@ QuestClient/Build/
 QuestClient/Intermediate/CachedAssetRegistry.bin
 QuestClient/Intermediate/
 QuestClient/Saved/
+QuestClient/Binaries/Android/QuestClient.target
+QuestClient/Binaries/
