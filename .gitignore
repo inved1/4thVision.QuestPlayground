@@ -1,2 +1,6 @@
 S3Connect/UEtoS3Sync/Saved/
 S3Connect/UEtoS3Sync/Intermediate/
+QuestClient/Build/
+QuestClient/Intermediate/CachedAssetRegistry.bin
+QuestClient/Intermediate/
+QuestClient/Saved/
